@@ -7,3 +7,8 @@ don't like it. i also have some good gists. look at them.
 if you're running windows, have a fun time running anything i write :)
 
 <a href="https://stackexchange.com/users/18365332/michael-m"><img src="https://stackexchange.com/users/flair/18365332.png?theme=dark" width="208" height="58" alt="profile for Michael M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Michael M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<br>
+<br>
+Visitor count since 11/28/22: 
+
+![visitor count](https://profile-counter.glitch.me/michaelfm1211/count.svg)
