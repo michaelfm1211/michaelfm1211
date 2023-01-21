@@ -12,3 +12,5 @@ if you're running windows, have a fun time running anything i write :)
 Visitor count:
 
 ![visitor count](https://profile-counter.glitch.me/michaelfm1211/count.svg)
+
+For contact, you can email me at [michaelfm1211.forward@gmail.com](mailto:michaelfm1211.forward@gmail.com)
