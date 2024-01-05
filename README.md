@@ -7,6 +7,7 @@ I like to code in JS, Python, or C.
 I spend a fair amount of time over on Stack Overflow too:
 <br>
 <a href="https://stackexchange.com/users/18365332/michael-m"><img src="https://stackexchange.com/users/flair/18365332.png?theme=dark" width="208" height="58" alt="profile for Michael M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Michael M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/13376511/michael-m"><img src="https://stackoverflow.com/users/flair/13376511.png?theme=dark" width="208" height="58" alt="profile for Michael M. at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael M. at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br>
 
 For contact, you can email me at [michaelfm1211.forward@gmail.com](mailto:michaelfm1211.forward@gmail.com)
