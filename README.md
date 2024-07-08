@@ -10,7 +10,7 @@ I spend a fair amount of time over on Stack Overflow too:
 <a href="https://stackoverflow.com/users/13376511/michael-m"><img src="https://stackoverflow.com/users/flair/13376511.png?theme=dark" width="208" height="58" alt="profile for Michael M. at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael M. at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br>
 
-For contact, you can email me at [michaelfm1211.forward@gmail.com](mailto:michaelfm1211.forward@gmail.com)
+For contact, you can email me at [michaelfm1211.forward@gmail.com](mailto:michaelfm1211.forward@gmail.com) (or via the email on my Git commits).
 
 You can also [check out my gists](https://gist.github.com/michaelfm1211).
 
